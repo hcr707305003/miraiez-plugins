@@ -2,6 +2,7 @@
 /**
  * User: Shiroi
  * EMail: 707305003@qq.com
+ * github: https://github.com/hcr707305003
  */
 pluginRegister(new class extends pluginParent{
     //以下五行插件信息必须定义

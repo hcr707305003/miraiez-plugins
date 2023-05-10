@@ -2,6 +2,7 @@
 /**
  * User: Shiroi
  * EMail: 707305003@qq.com
+ * github: https://github.com/hcr707305003
  * example:
  *   私聊机器人|群聊 发送：来张美女|来张动漫|来张风景
  * 以下的关键词{$meinv|$dongman|$fengjing}属性可以设置关键词回复

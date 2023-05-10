@@ -2,6 +2,7 @@
 /**
  * User: Shiroi
  * EMail: 707305003@qq.com
+ * github: https://github.com/hcr707305003
  * example:
  *   私聊机器人|群聊 发送：诗词
  * 以下的关键词{$keywords}属性可以设置关键词回复
